@@ -1,0 +1,15 @@
+Define Favicon and give an illustrative example.
+
+- A favicon, short for "favorite icon," is a small, often square-shaped icon associated with a website or web page. It is typically displayed in the browser's address bar, tabs, bookmarks, and history to help users easily identify and distinguish websites. Favicons are a visual representation of a website's brand or logo and provide a way for users to recognize and access their favorite sites quickly.
+
+Illustrative example:
+Let's say you visit a popular news website, "NewsNow.com." In your web browser's tab or address bar, you see a tiny icon next to the website's title or URL. This tiny icon is the favicon for NewsNow.com, and it might be a simplified version of their logo or a distinctive graphic element associated with their brand. Here's a textual representation of what it might look like:
+
+[NewsNow.com Logo]
+[Browser Tab or Address Bar]
+
+This favicon not only helps you identify the website you're currently viewing but also makes it easier to locate the website when you have multiple tabs open or when you're scrolling through your bookmarks. It adds a visual element to web browsing, enhancing user experience and brand recognition.
+
+
+
+
